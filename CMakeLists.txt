@@ -4,7 +4,7 @@ project(pluginlib_arrayutil_sub)
 find_package(catkin REQUIRED COMPONENTS
   pluginlib
   roscpp
-  pluginlib_arrayutil_base
+  # pluginlib_arrayutil_base
 )
 
 catkin_package(
