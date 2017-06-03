@@ -1,4 +1,4 @@
 - git:
-    local-name: pluginlib_arrayutil_sub
+    local-name: pluginlib_arrayutil_base
     uri: https://github.com/MoriKen254/pluginlib_arrayutil_base.git
     version: add-travis
